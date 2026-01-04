@@ -1,2 +1,4 @@
-# Ola-Mundo
-Primeiro repositorio
+# Ola, Mundo!
+Meu primeiro repositorio
+
+iniando o aprendizado
